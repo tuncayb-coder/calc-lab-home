@@ -1,11 +1,12 @@
 // Name: Tunjay Bayramzade StudentID: 251ADB234
-// GitHub: https://github.com/your-username/calc-lab-home
+// GitHub: https://github.com/tuncayb-coder/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used:
-// AI: ChatGPT (OpenAI), conversation history dated 2026-10-27.
+// AI: ChatGPT (OpenAI),https://chatgpt.com/c/6ae0e248-1198-83ed-8a6d-97ff4202d975
+//  conversation history dated 2026-10-27.
 // Used for guidance on C parsing, arithmetic, file handling and testing.
 // Official C reference: https://en.cppreference.com/w/c
-// AI-assisted code must be understood and verified by the student.
+
 
 #include <stdio.h>
 #include <stdlib.h>
